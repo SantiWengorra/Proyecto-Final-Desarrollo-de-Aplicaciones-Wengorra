@@ -86,5 +86,5 @@ El buscador permite a los usuarios encontrar fácilmente productos o categorías
 
 ## CONTACTO
 
-santi.wengorra@gmail.com.
-https://github.com/SantiWengorra
+- santi.wengorra@gmail.com.
+- https://github.com/SantiWengorra
