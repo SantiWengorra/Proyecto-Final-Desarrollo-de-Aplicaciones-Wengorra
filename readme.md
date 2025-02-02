@@ -53,6 +53,17 @@ La sección de perfil permite a los usuarios personalizar su experiencia. Ofrece
 
 ---
 
+### Buscador de Categorias y Productos
+
+El buscador permite a los usuarios encontrar fácilmente productos o categorías dentro de la aplicación. Ofrece dos opciones principales:
+
+- **Buscar por Nombre de Categoría:** Los usuarios pueden ingresar el nombre de una categoría específica para encontrar rápidamente los productos asociados a ella.
+- **Buscar por Nombre de Producto:** Utilizando un campo de búsqueda, los usuarios pueden escribir el nombre de un producto y obtener una lista de resultados que coinciden, mejorando la navegación y la experiencia de compra.
+
+![Pantalla de Perfil](./assets/profile.screen.png)
+
+---
+
 ## Tecnologías Utilizadas
 
 - **Firebase Authentication:** Implementación del sistema de autenticación de Firebase para una gestión de acceso segura.
@@ -67,7 +78,7 @@ La sección de perfil permite a los usuarios personalizar su experiencia. Ofrece
 
 ## Instalacion
 
-- **Clona el Repositorio:** git clone https://github.com/tu-usuario/tu-aplicacion.git
+- **Clona el Repositorio:** git clone https://github.com/SantiWengorra/Proyecto-Final-Desarrollo-de-Aplicaciones-Wengorra.git
 - **Instala las dependencias:** npm install
 - **Configura las claves de API para servicios externos (Expo-Location, Firebase, etc.)**
 - **Configura las credenciales de Firebase en tu proyecto.**
@@ -78,3 +89,4 @@ La sección de perfil permite a los usuarios personalizar su experiencia. Ofrece
 ## CONTACTO
 
 santi.wengorra@gmail.com.
+https://github.com/SantiWengorra
