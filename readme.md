@@ -60,8 +60,6 @@ El buscador permite a los usuarios encontrar fácilmente productos o categorías
 - **Buscar por Nombre de Categoría:** Los usuarios pueden ingresar el nombre de una categoría específica para encontrar rápidamente los productos asociados a ella.
 - **Buscar por Nombre de Producto:** Utilizando un campo de búsqueda, los usuarios pueden escribir el nombre de un producto y obtener una lista de resultados que coinciden, mejorando la navegación y la experiencia de compra.
 
-![Pantalla de Perfil](./assets/profile.screen.png)
-
 ---
 
 ## Tecnologías Utilizadas
