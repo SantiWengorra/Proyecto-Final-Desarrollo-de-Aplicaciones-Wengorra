@@ -34,3 +34,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Ignorar archivos de configuración de Google y Firebase
+googleApi.js
+database.js
